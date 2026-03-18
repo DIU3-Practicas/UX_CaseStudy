@@ -49,14 +49,34 @@ Miembros y nombre del equipo: MASE
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+**1. Antecedentes y Objetivos (The "Why").**
+
+- **Contexto:** Este proyecto busca mejorar la interfaz de la página web de la hamburguesería Capital Burger, para hacerla más comprensible, accesible y atractiva al usuario que la visite.
+
+- **Objetivos de investigación:** Además de mejorar la experiencia del usuario al usar la plataforma, se busca determinar cómo atraer a más clientes e incrementar las ventas, tanto en el local como en la tienda online. En concreto, se evaluarán aspectos como, por ejemplo, los siguientes:
+  
+ - Si la disposición y organización de la carta de la página web permite al cliente navegar con facilidad y encontrar un producto específico en un tiempo inferior a 30 segundos.
+   
+ - Si el cliente puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y si puede completarlo en un tiempo inferior a 4 minutos desde que inicia la selección hasta que hace clic en “Confirmar pedido”, pudiendo añadir, eliminar o modificar productos según sus preferencias de manera intuitiva y sin obstáculos.
+   
+ - Se estudiará si las imágenes de los productos e ingredientes son lo suficientemente representativas para que los usuarios puedan identificar cada opción sin necesidad de leer el texto, y, de manera inversa, si la información textual es clara y suficiente para comprender los productos en caso de que las imágenes no estuvieran disponibles.
+   
+ - Si el cliente puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
+
+- **Experiencia del equipo / justificación:**
+  
+ - Como clientes y entusiastas del mundo de la gastronomía, y más concretamente del mundo de las hamburguesas, creemos que con nuestros conocimientos y experiencias en distintos locales de hamburguesas (rápidas o gourmet) podemos llegar a cumplir los objetivos de esta investigación.
+   
+ - Como diseñadores, tenemos una base de conocimientos adquiridos en usabilidad, accesibilidad y experiencia de usuario que pueden ser aplicables a este proyecto, desarrollados en otras asignaturas del Grado como Sistemas de Información Basados en Web (SIBW), Dirección y Gestión de Proyectos (DGP) y Metodologías de Desarrollo Ágil (MDA).
+
+**2. Metodología (The "How").**
+
+La estrategia o metodología que seguiremos para llevar a cabo nuestra investigación será la siguiente: Comenzaremos empleando una herramienta de tipo comparativa, que se basará en la realización de un análisis de la competencia (Competitor Analysis) con plataformas similares (en nuestro caso, escogeremos Mostaza Green Burger y Burger King). A continuación, crearemos personas ficticias que nos ayuden a entender mejor al público objetivo, así como mapas de experiencia del usuario (User Journey Experience Maps) para cada una de esas personas que nos ayudarán a describir la interacción del usuario realizando las diferentes tareas. Por último, finalizaremos con una revisión de usabilidad (Usability Review), donde actuaremos como expertos en usabilidad.
 
 
 ### 1.b Competitive Analysis
