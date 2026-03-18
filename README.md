@@ -102,8 +102,7 @@ A continuación, se presenta el perfil de los participantes, incluyendo criterio
 
 Para lograr evaluar los diferentes aspectos que hemos propuesto en el objetivo de la investigación, le vamos a pedir que el usuario haga exactamente las siguientes tareas:
 
-- **“Busca en la carta la hamburguesa específica llamada *Metro*”.** <br>
-- Para comprobar que el usuario puede encontrarla con facilidad y en un tiempo inferior a 30 segundos.
+- **“Busca en la carta la hamburguesa específica llamada *Metro*”.** <br> Para comprobar que el usuario puede encontrarla con facilidad y en un tiempo inferior a 30 segundos.
 
 - **“Completa la siguiente simulación de pedido en la web: como entrante, escoge unos *Cheese Rings*; como hamburguesa, quédate con la *Capital Classic*; y, como bebida, pide el botellín de 500 ml de agua. Por último, elimina como entrante los *Cheese Rings* y sustitúyelos por los *Bites de Queso*, al ser un poco más baratos, y añade otro botellín de 500 ml de agua. Para finalizar tu pedido, haz clic en el botón de ‘*Confirmar pedido*’”.**
 Para comprobar que el usuario puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y completarlo en un tiempo inferior a 4 minutos, pudiendo además ajustarlo de forma sencilla según sus preferencias.
