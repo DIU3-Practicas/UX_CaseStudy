@@ -126,7 +126,7 @@ A lo largo del estudio, se van a desarrollar los siguientes entregables y en el 
 
 - Por último, también realizaremos un **Briefing**, que actuará como un resumen ejecutivo de la práctica, redactado como si quisiéramos aportar la revisión de un experto en UX/Usabilidad sobre el sitio web Capital Burger.
 
-:link: **Enlace al pdf: [User Resarch Plan](P1/1.User_Research_Plan/User_Research_Plan.pdf)**
+:link: **Enlace al pdf: [User Resarch Plan](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P1/1.User_Research_Plan/User_Research_Plan.pdf)**
 
 
 ### 1.b Competitive Analysis
