@@ -104,15 +104,11 @@ Para lograr evaluar los diferentes aspectos que hemos propuesto en el objetivo d
 
 - **“Busca en la carta la hamburguesa específica llamada *Metro*”.** <br> Para comprobar que el usuario puede encontrarla con facilidad y en un tiempo inferior a 30 segundos.
 
-- **“Completa la siguiente simulación de pedido en la web: como entrante, escoge unos *Cheese Rings*; como hamburguesa, quédate con la *Capital Classic*; y, como bebida, pide el botellín de 500 ml de agua. Por último, elimina como entrante los *Cheese Rings* y sustitúyelos por los *Bites de Queso*, al ser un poco más baratos, y añade otro botellín de 500 ml de agua. Para finalizar tu pedido, haz clic en el botón de ‘*Confirmar pedido*’”.**
-Para comprobar que el usuario puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y completarlo en un tiempo inferior a 4 minutos, pudiendo además ajustarlo de forma sencilla según sus preferencias.
+- **“Completa la siguiente simulación de pedido en la web: como entrante, escoge unos *Cheese Rings*; como hamburguesa, quédate con la *Capital Classic*; y, como bebida, pide el botellín de 500 ml de agua. Por último, elimina como entrante los *Cheese Rings* y sustitúyelos por los *Bites de Queso*, al ser un poco más baratos, y añade otro botellín de 500 ml de agua. Para finalizar tu pedido, haz clic en el botón de ‘*Confirmar pedido*’”.** <br> Para comprobar que el usuario puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y completarlo en un tiempo inferior a 4 minutos, pudiendo además ajustarlo de forma sencilla según sus preferencias.
 
-- **“Observa la hamburguesa *The Royal Burger* de la carta e identifica sus ingredientes únicamente a partir de la imagen, sin leer la descripción. Después, lee la descripción y verifica si coincide con los ingredientes que habías identificado”.**
-**“Lee la descripción de la hamburguesa *La Triunfada* de la carta sin mirar la imagen. Imagina cómo sería el producto en tu mente y, luego, compara tu idea con la imagen real para ver si se asemeja a lo que habías imaginado”.**
-Para evaluar si las imágenes son representativas y si la información textual es clara y suficiente para el usuario.
+- **“Observa la hamburguesa *The Royal Burger* de la carta e identifica sus ingredientes únicamente a partir de la imagen, sin leer la descripción. Después, lee la descripción y verifica si coincide con los ingredientes que habías identificado”.** <br> **“Lee la descripción de la hamburguesa *La Triunfada* de la carta sin mirar la imagen. Imagina cómo sería el producto en tu mente y, luego, compara tu idea con la imagen real para ver si se asemeja a lo que habías imaginado”.** <br> Para evaluar si las imágenes son representativas y si la información textual es clara y suficiente para el usuario.
 
-- **“Encuentra la dirección del local de Capital Burger que te interese, así como su horario de apertura y un medio de contacto”.**
-Para comprobar que el usuario puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
+- **“Encuentra la dirección del local de Capital Burger que te interese, así como su horario de apertura y un medio de contacto”.** <br> Para comprobar que el usuario puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
 
 **5. Cronograma y Entregables.**
 
