@@ -59,14 +59,14 @@ Miembros y nombre del equipo: MASE
 - **Contexto:** Este proyecto busca mejorar la interfaz de la página web de la hamburguesería Capital Burger, para hacerla más comprensible, accesible y atractiva al usuario que la visite.
 
 - **Objetivos de investigación:** Además de mejorar la experiencia del usuario al usar la plataforma, se busca determinar cómo atraer a más clientes e incrementar las ventas, tanto en el local como en la tienda online. En concreto, se evaluarán aspectos como, por ejemplo, los siguientes:
-  
- - Si la disposición y organización de la carta de la página web permite al cliente navegar con facilidad y encontrar un producto específico en un tiempo inferior a 30 segundos.
+
+    - Si la disposición y organización de la carta de la página web permite al cliente navegar con facilidad y encontrar un producto específico en un tiempo inferior a 30 segundos.
    
- - Si el cliente puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y si puede completarlo en un tiempo inferior a 4 minutos desde que inicia la selección hasta que hace clic en “Confirmar pedido”, pudiendo añadir, eliminar o modificar productos según sus preferencias de manera intuitiva y sin obstáculos.
+    - Si el cliente puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y si puede completarlo en un tiempo inferior a 4 minutos desde que inicia la selección hasta que hace clic en “Confirmar pedido”, pudiendo añadir, eliminar o modificar productos según sus preferencias de manera intuitiva y sin obstáculos.
    
- - Se estudiará si las imágenes de los productos e ingredientes son lo suficientemente representativas para que los usuarios puedan identificar cada opción sin necesidad de leer el texto, y, de manera inversa, si la información textual es clara y suficiente para comprender los productos en caso de que las imágenes no estuvieran disponibles.
+    - Se estudiará si las imágenes de los productos e ingredientes son lo suficientemente representativas para que los usuarios puedan identificar cada opción sin necesidad de leer el texto, y, de manera inversa, si la información textual es clara y suficiente para comprender los productos en caso de que las imágenes no estuvieran disponibles.
    
- - Si el cliente puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
+    - Si el cliente puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
 
 - **Experiencia del equipo / justificación:**
   
