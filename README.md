@@ -98,6 +98,39 @@ A continuación, se presenta el perfil de los participantes, incluyendo criterio
 
     - **Usuarios externos:** participantes representativos del público objetivo de la página web de Capital Burger, seleccionados de acuerdo a los criterios de inclusión definidos. Se utilizarán para comprender y evaluar mejor al público objetivo y para identificar posibles problemas que hayan podido pasar desapercibidos con los usuarios de clase.
 
+**4. Guión y Tareas (The "What").**
+
+Para lograr evaluar los diferentes aspectos que hemos propuesto en el objetivo de la investigación, le vamos a pedir que el usuario haga exactamente las siguientes tareas:
+
+- **“Busca en la carta la hamburguesa específica llamada *Metro*”.**
+Para comprobar que el usuario puede encontrarla con facilidad y en un tiempo inferior a 30 segundos.
+
+- **“Completa la siguiente simulación de pedido en la web: como entrante, escoge unos *Cheese Rings*; como hamburguesa, quédate con la *Capital Classic*; y, como bebida, pide el botellín de 500 ml de agua. Por último, elimina como entrante los *Cheese Rings* y sustitúyelos por los *Bites de Queso*, al ser un poco más baratos, y añade otro botellín de 500 ml de agua. Para finalizar tu pedido, haz clic en el botón de ‘*Confirmar pedido*’”.**
+Para comprobar que el usuario puede realizar un pedido a su gusto con facilidad empleando el sistema de pedidos de la página web y completarlo en un tiempo inferior a 4 minutos, pudiendo además ajustarlo de forma sencilla según sus preferencias.
+
+- **“Observa la hamburguesa *The Royal Burger* de la carta e identifica sus ingredientes únicamente a partir de la imagen, sin leer la descripción. Después, lee la descripción y verifica si coincide con los ingredientes que habías identificado”.**
+**“Lee la descripción de la hamburguesa *La Triunfada* de la carta sin mirar la imagen. Imagina cómo sería el producto en tu mente y, luego, compara tu idea con la imagen real para ver si se asemeja a lo que habías imaginado”.**
+Para evaluar si las imágenes son representativas y si la información textual es clara y suficiente para el usuario.
+
+- **“Encuentra la dirección del local de Capital Burger que te interese, así como su horario de apertura y un medio de contacto”.**
+Para comprobar que el usuario puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
+
+**5. Cronograma y Entregables.**
+
+A lo largo del estudio, se van a desarrollar los siguientes entregables y en el siguiente orden:
+
+- El presente documento, **Plan de Investigación de Usuario (*User Research Plan*)**, que es el documento estratégico que define los cimientos del estudio de usabilidad. Funciona como una “hoja de ruta” que explica qué queremos aprender, a quién se los vamos a preguntar, cómo vamos a obtener los datos y cuándo estarán listos los resultados.
+
+- Comenzaremos el estudio con la realización de un **análisis de la competencia (*Competitor Analysis*)** con plataformas similares (en nuestro caso, escogeremos Mostaza Green Burger y Burger King).
+
+- A continuación, crearemos **personas ficticias** que nos ayuden a entender mejor al público objetivo.
+
+- Después, elaboraremos **mapas de experiencia del usuario (*User Journey Experience Maps*)** para cada una de esas personas que nos ayudarán a describir la interacción del usuario realizando las diferentes tareas.
+
+- Finalizaremos con una **revisión de usabilidad (*Usability Review*)**, donde actuaremos como expertos en usabilidad, recogiendo las mejoras que realizaríamos en la página web.
+
+- Por último, también realizaremos un **Briefing**, que actuará como un resumen ejecutivo de la práctica, redactado como si quisiéramos aportar la revisión de un experto en UX/Usabilidad sobre el sitio web Capital Burger.
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
