@@ -73,11 +73,30 @@ Miembros y nombre del equipo: MASE
     - **Como clientes y entusiastas del mundo de la gastronomía**, y más concretamente del mundo de las hamburguesas, creemos que con nuestros conocimientos y experiencias en distintos locales de hamburguesas (rápidas o gourmet) podemos llegar a cumplir los objetivos de esta investigación.
    
     - **Como diseñadores**, tenemos una base de conocimientos adquiridos en usabilidad, accesibilidad y experiencia de usuario que pueden ser aplicables a este proyecto, desarrollados en otras asignaturas del Grado como Sistemas de Información Basados en Web (SIBW), Dirección y Gestión de Proyectos (DGP) y Metodologías de Desarrollo Ágil (MDA).
-    - 
 
 **2. Metodología (The "How").**
 
-La estrategia o metodología que seguiremos para llevar a cabo nuestra investigación será la siguiente: Comenzaremos empleando una herramienta de tipo **comparativa**, que se basará en la realización de un análisis de la competencia (Competitor Analysis) con plataformas similares (en nuestro caso, escogeremos Mostaza Green Burger y Burger King). A continuación, crearemos personas ficticias que nos ayuden a entender mejor al público objetivo, así como mapas de experiencia del usuario (User Journey Experience Maps) para cada una de esas personas que nos ayudarán a describir la interacción del usuario realizando las diferentes tareas. Por último, finalizaremos con una revisión de usabilidad (Usability Review), donde actuaremos como expertos en usabilidad.
+La estrategia o metodología que seguiremos para llevar a cabo nuestra investigación será la siguiente: Comenzaremos empleando una herramienta de tipo **comparativa**, que se basará en la realización de un análisis de la competencia (*Competitor Analysis*) con plataformas similares (en nuestro caso, escogeremos Mostaza Green Burger y Burger King). A continuación, crearemos personas ficticias que nos ayuden a entender mejor al público objetivo, así como mapas de experiencia del usuario (*User Journey Experience Maps*) para cada una de esas personas que nos ayudarán a describir la interacción del usuario realizando las diferentes tareas. Por último, finalizaremos con una revisión de usabilidad (*Usability Review*), donde actuaremos como expertos en usabilidad.
+
+**3. Perfil de los Participantes (The "Who").**
+
+A continuación, se presenta el perfil de los participantes, incluyendo criterios de inclusión y segmentación para garantizar que la investigación refleje de forma adecuada al público objetivo:
+
+- **Criterios de inclusión:**
+  
+    - **Edad:** Principalmente, personas mayores de edad.
+
+    - **Frecuencia de uso:** personas que consultan páginas web de comida rápida con regularidad.
+
+    - **Hábitos de uso:** personas que suelen visitar la página web durante los periodos de alta demanda (la hora de comer y/o la de cenar).
+
+    - **Nivel de competencia digital:** básica, es decir, suficiente para navegar y utilizar de manera autónoma una página web sencilla.
+  
+- **Segmentación:**
+  
+    - **Usuarios de clase (co-evaluación):** principalmente nuestro profesor y nuestros compañeros y compañeras del subgrupo 3 de prácticas de la asignatura de Diseño de Interfaces de Usuario (DIU). Se utilizarán principalmente para validar la metodología y detectar problemas importantes de usabilidad antes de probar con usuarios externos.
+
+    - **Usuarios externos:** participantes representativos del público objetivo de la página web de Capital Burger, seleccionados de acuerdo a los criterios de inclusión definidos. Se utilizarán para comprender y evaluar mejor al público objetivo y para identificar posibles problemas que hayan podido pasar desapercibidos con los usuarios de clase.
 
 
 ### 1.b Competitive Analysis
