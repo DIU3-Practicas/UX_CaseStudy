@@ -235,20 +235,19 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 - **Comentario sobre la revisión:**
 
     **Puntos fuertes:**
-        i. ...
-        ii. ...
-        iii. ...
+        i. ... <br>
+        ii. ... <br>
+        iii. ... <br>
 
     **Puntos débiles:**
-        i. ...
-        ii. ...
+        i. ... <br>
+        ii. ... <br>
         iii. ...
 
     **Conclusión:** ...
 
 
-### 1.f Briefing
-![Método UX](img/Competitive.png) 
+### 1.f Briefing 
 ----
 
 Tal y como se indicó en el **Plan de Investigación de Usuario (*User Research Plan*)**, este proyecto buscaba mejorar la interfaz de la página web de **Capital Burger**, haciéndola más comprensible, accesible y atractiva, con el objetivo de optimizar la experiencia del usuario y favorecer tanto las ventas online como en el local.
