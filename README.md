@@ -143,6 +143,36 @@ Para el análisis competitivo, hemos optado por utilizar dos páginas que se cen
 	
   Motivo de la elección: Se ha seleccionado también Mostaza Green para analizar el segmento de hamburguesas más gourmet. Además, es un local bastante conocido en la zona, lo que lo convierte en un buen referente para este tipo de oferta.
 
+Ambas páginas ofrecen servicios similares a los de **Capital Burger** y son populares en nuestra zona de trabajo (Granada). Además, representan dos enfoques distintos del mercado de las hamburguesas (uno más orientado a la comida rápida y otro más cercano al estilo gourmet), lo que nos permite analizar el sector desde dos perspectivas diferentes. Por tanto, esto nos será de gran ayuda para cumplir con los objetivos de nuestra investigación.
+
+Para poder realizar una comparativa más objetiva, hemos decidido evaluar los siguientes criterios con una puntuación de 0 a 3 estrellas:
+
+- **Modelo de negocio:**
+    - **Actualizaciones frecuentes:** la frecuencia en la que el menú ofrecido obtiene novedades.
+    - **Métodos de pago:** qué métodos de pago ofrece la página para realizar el pedido (tarjeta, bizum, Google Pay, PayPal…)
+    - **Estrategia de marketing:** cómo atrae la página a más clientes.
+
+- **Arquitectura de la información:**
+    - **Organización de contenidos:** si la página está bien organizada y se entiende lo que se está viendo.
+    - **Menú de navegación:** si el menú de navegación es completo y fácil de comprender.
+    - **Accesos rápidos:** si existen los accesos rápidos y son útiles.
+
+- **Diseño, Usabilidad y Accesibilidad:**
+    - **Diseño intuitivo:** si la página tiene un diseño sencillo, limpio, coherente y es fácil de usar.
+    - **Contraste y legibilidad:** si el contenido de la página se puede entender y la paleta de colores es buena.
+    - **Texto alternativo:** si las imágenes poseen un texto alternativo para lectores de pantalla.
+    - **Soporte multilingüe:** si la página permite cambiar a otros idiomas.
+
+- **UX y Funcionalidad:**
+    - **Opciones de filtrado y búsqueda:** si se pueden filtrar y/o ordenar los productos dependiendo de los ingredientes, las promociones, el precio, etc.
+    - **Rendimiento de la página:** que la página cargue y reaccione a los inputs del usuario de manera rápida.
+    - **Contacto:** si la página posee información de contacto y esta es fácil de obtener.
+
+- **Cuestiones subjetivas:**
+    - **Puntos fuertes:** aspectos de la página que, bajo nuestro punto de vista, destacan y mejoran la experiencia del usuario.
+    - **Puntos débiles:** aspectos de la página que, bajo nuestro punto de vista, pueden dificultar la experiencia o resultar menos efectivos.
+    - **Conclusiones:** breve resumen de la experiencia general y aprendizajes obtenidos del análisis.
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
