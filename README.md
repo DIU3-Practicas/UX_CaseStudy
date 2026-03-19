@@ -173,6 +173,14 @@ Para poder realizar una comparativa más objetiva, hemos decidido evaluar los si
     - **Puntos débiles:** aspectos de la página que, bajo nuestro punto de vista, pueden dificultar la experiencia o resultar menos efectivos.
     - **Conclusiones:** breve resumen de la experiencia general y aprendizajes obtenidos del análisis.
 
+**CONCLUSIÓN GENERAL TRAS EL COMPETITOR ANALYSIS:**
+
+En conclusión, el análisis muestra claras diferencias entre las páginas estudiadas. <br> Burger King destaca por ser la opción más completa y sólida, con un modelo de negocio muy desarrollado, lo que la convierte en una página casi perfecta. <br>
+Mostaza Green Burger presenta una propuesta visual atractiva, con una arquitectura de la información prácticamente excelente, aunque todavía con muchos otros aspectos mejorables. <br>
+Por último, nuestro caso de estudio, Capital Burger, a pesar de su originalidad, presenta más carencias en comparación con las otras páginas de la competencia analizadas, resultando muy mejorable en prácticamente todos los aspectos evaluados.
+
+Por tanto, **según nuestro análisis, el orden de las páginas de mejor a peor sería el siguiente: Burger King, Mostaza Green Burger, Capital Burger**.
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
