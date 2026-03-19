@@ -8,7 +8,7 @@ Prácticas Diseño Interfaces de Usuario [Tema: Sabores con encanto (Fast Food e
 
 
 
-Actualizado: 18/03/2026
+Actualizado: 19/03/2026
 
 
 
@@ -133,7 +133,15 @@ A lo largo del estudio, se van a desarrollar los siguientes entregables y en el 
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo, hemos optado por utilizar dos páginas que se centran en dos nichos distintos del mercado:
+
+- **Burger King:** Cadena internacional de comida rápida por excelencia, con un estilo más clásico y accesible que las propuestas gourmet.
+
+  Motivo de la elección: Se ha seleccionado Burger King para evaluar el mercado de la comida rápida, ya que es una de las cadenas de hamburguesas más reconocidas y, habitualmente, una de las primeras que vienen a la mente cuando se piensa en este tipo de producto.
+
+- **Mostaza Green:** Restaurante popular con un toque divertido y original para personas interesadas en hamburguesas gourmet.
+	
+  Motivo de la elección: Se ha seleccionado también Mostaza Green para analizar el segmento de hamburguesas más gourmet. Además, es un local bastante conocido en la zona, lo que lo convierte en un buen referente para este tipo de oferta.
 
 
 ### 1.c Personas
