@@ -194,7 +194,7 @@ Para poder realizar un mejor análisis de la página web de Capital Burger en su
 
 Por un lado, se tiene a **Alberto García**, un joven almeriense de 26 años y opositor a Policía Nacional, acostumbrado a pasar largas horas estudiando solo, que emplea su propio teléfono móvil para hacer un pedido con sus amigos y así despejarse un poco y celebrar sus éxitos. Representa a un usuario con un objetivo inmediato y sencillo, sin problemas de alergias alimentarias y con una interacción directa y rápida.
 
-![Persona 1: ALberto García](P1/3.Personas/Persona_1.png)
+![Persona 1: Alberto García](P1/3.Personas/Persona_1.png)
 
 Por el otro, se tiene a **Laura Jiménez**, una madre granadina de 48 años y dependienta en una joyería con ganas de pasar más tiempo con su familia, cuyo contexto es más complejo al incluir responsabilidades familiares y la presencia de alergias alimentarias en su entorno. En su caso, utiliza el ordenador familiar para realizar un pedido totalmente ajustado a las necesidades de todos los miembros de su familia, por lo que nos encontramos ante una interacción más reflexiva y orientada a la búsqueda de información, en la que la toma de decisiones requiere mayor atención.
 
@@ -209,7 +209,19 @@ Ambos perfiles comparten un escenario general similar: van a pedir hamburguesas 
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Con estos casos de uso hemos querido mostrar cómo se manejan distintas personas en diferentes contextos para realizar un propósito similar. Por tanto, los escenarios planteados permiten analizar dos tipos de interacción diferenciados dentro de la misma página web.
+
+Por un lado, el escenario de **Alberto García** se centra en una experiencia de uso rápida y directa, orientada al cumplimiento eficiente de una tarea concreta (la realización de un pedido) desde su teléfono móvil. En este caso, la toma de decisiones es muy sencilla al no haber ningún tipo de alergia alimentaria, lo que permite evaluar la fluidez del proceso de realizar un pedido y la eficiencia de la interfaz.
+
+![Journey Map de la persona 1 (Alberto García)](P1/4.Journey_Maps/Journey_Map_1.png)
+
+Por otro lado, el escenario de **Laura Jiménez** se trata de un caso de navegación y exploración más complejo y detallado desde el ordenador familiar, enfocado principalmente en la búsqueda de información acerca de alérgenos y, en base a ello, tomar una decisión. Sin embargo, se encuentra con varios problemas, como la ausencia de información específica sobre alérgenos, pero tampoco encuentra un canal de contacto inmediato como es un número de teléfono para poder resolver todas sus dudas. Esta situación genera frustración y cansancio, lo que lleva finalmente a Laura y su familia a buscar otra alternativa de la competencia, como Mostaza Green Burger, una página web que sí le permite consultar toda la información que necesita y realizar el pedido con facilidad.
+
+![Journey Map de la persona 2 (Laura Jiménez)](P1/4.Journey_Maps/Journey_Map_2.png)
+
+También hemos querido recalcar las distintas reacciones de las personas a asuntos como el precio, la disponibilidad del servicio, el coste de envío, la variedad del menú, etc. Esto permite identificar no solo problemas de usabilidad, sino también puntos más subjetivos para ampliar así las oportunidades de mejora de la página web de Capital Burger y, por tanto, de la experiencia de usuario.
+
+:link: **Enlaces a los archivos PDF: [Journey Map de la persona 1 (Alberto García)](P1/4.Journey_Maps/Journey_Map_1.pdf), [Journey Map de la persona 2 (Laura Jiménez)](P1/4.Journey_Maps/Journey_Map_2.pdf)**
 
 
 ### 1.e Usability Review
