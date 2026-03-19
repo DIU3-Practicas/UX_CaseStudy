@@ -233,8 +233,8 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 - **Comentario sobre la revisión:**
 
     - **Puntos fuertes:** <br>
-        **  i.**    Las funcionalidades principales cumplen los objetivos del usuario (hacer pedidos de forma efectiva). <br>
-        ** ii.**   Los flujos de uso están bien resueltos y permiten completar tareas sin grandes dificultades. <br>
+          **i.**    Las funcionalidades principales cumplen los objetivos del usuario (hacer pedidos de forma efectiva). <br>
+         **ii.**   Los flujos de uso están bien resueltos y permiten completar tareas sin grandes dificultades. <br>
         **iii.**  Acceso directo al menú desde la página principal. <br>
 		**iv.**   Navegación intuitiva. <br>
 		**v.**    Estructura de la web alineada con los objetivos del usuario. <br>
