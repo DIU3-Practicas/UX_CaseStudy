@@ -193,10 +193,13 @@ Por tanto, **según nuestro análisis, el orden de las páginas de mejor a peor 
 Para poder realizar un mejor análisis de la página web de Capital Burger en su estado actual, hemos optado por crear dos perfiles relativamente parecidos pero con unas claras diferencias en personalidad, contexto y necesidades.
 
 Por un lado, se tiene a **Alberto García**, un joven almeriense de 26 años y opositor a Policía Nacional, acostumbrado a pasar largas horas estudiando solo, que emplea su propio teléfono móvil para hacer un pedido con sus amigos y así despejarse un poco y celebrar sus éxitos. Representa a un usuario con un objetivo inmediato y sencillo, sin problemas de alergias alimentarias y con una interacción directa y rápida.
+
 ![Persona 1: ALberto García](P1/3.Personas/Persona_1.png)
 
 Por el otro, se tiene a **Laura Jiménez**, una madre granadina de 48 años y dependienta en una joyería con ganas de pasar más tiempo con su familia, cuyo contexto es más complejo al incluir responsabilidades familiares y la presencia de alergias alimentarias en su entorno. En su caso, utiliza el ordenador familiar para realizar un pedido totalmente ajustado a las necesidades de todos los miembros de su familia, por lo que nos encontramos ante una interacción más reflexiva y orientada a la búsqueda de información, en la que la toma de decisiones requiere mayor atención.
+
 ![Persona 2: Laura Jiménez](P1/3.Personas/Persona_2.png)
+
 
 Ambos perfiles comparten un escenario general similar: van a pedir hamburguesas para cenar con un grupo de personas. Sin embargo, el contexto de uso y las necesidades de dichos escenarios es distinto. Esta elección permite analizar cómo un mismo servicio debe adaptarse a distintos tipos de usuario, mostrando la importancia de tener en cuenta tanto personas y escenarios simples como situaciones que requieren mayor nivel de detalle en la información ofrecida y una toma de decisiones más delicada y elaborada.
 
