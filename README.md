@@ -258,7 +258,7 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 		**ix.**   Falta de textos alternativos en el contenido. <br>
 		**x.**    El banner de cookies es demasiado intrusivo en dispositivos móviles.
 
-    - **Conclusión:** ...
+    - **Conclusión:** El análisis muestra que los usuarios deberían poder utilizar esta página web con relativa facilidad y ser capaces de completar la gran mayoría de tareas importantes. Aunque el sitio cumple bien con su función principal, existe un claro margen de mejora en la usabilidad, para reducir barreras y ofrecer una experiencia de usuario más completa y eficiente. 
 
 :link: **Enlace al documento PDF: [Usability Review](P1/5.Usability_Review/Usability_Review.pdf)**
 
