@@ -232,23 +232,22 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
   
 - **Comentario sobre la revisión:**
 
-    - **Puntos fuertes detectados:** <br>
-                i. ... <br>
-            ii. ... <br>
-            iii. ... <br>
+    - **Puntos fuertes:** <br>
+        i. ... <br>
+        ii. ... <br>
+        iii. ... <br>
 
-    - **Puntos débiles detectados:** <br>
-            i. ... <br>
-            ii. ... <br>
-            iii. ...
+    - **Puntos débiles:** <br>
+        i. ... <br>
+        ii. ... <br>
+        iii. ...
 
-    **Conclusión:** ...
+    - **Conclusión:** ...
 
 :link: **Enlace al documento PDF: [Usability Review](P1/5.Usability_Review/Usability_Review.pdf)**
 
 
 ### 1.f Briefing 
----
 
 Tal y como se indicó en el **Plan de Investigación de Usuario (*User Research Plan*)**, este proyecto buscaba mejorar la interfaz de la página web de **Capital Burger**, haciéndola más comprensible, accesible y atractiva, con el objetivo de optimizar la experiencia del usuario y favorecer tanto las ventas online como en el local.
 
