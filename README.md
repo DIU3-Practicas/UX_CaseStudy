@@ -126,7 +126,7 @@ A lo largo del estudio, se van a desarrollar los siguientes entregables y en el 
 
 - Por último, también realizaremos un **Briefing**, que actuará como un resumen ejecutivo de la práctica, redactado como si quisiéramos aportar la revisión de un experto en UX/Usabilidad sobre el sitio web Capital Burger.
 
-:link: **Enlace al pdf: [User Resarch Plan](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P1/1.User_Research_Plan/User_Research_Plan.pdf)**
+:link: **Enlace al pdf: [User Resarch Plan](P1/1.User_Research_Plan/User_Research_Plan.pdf)**
 
 
 ### 1.b Competitive Analysis
@@ -173,6 +173,8 @@ Para poder realizar una comparativa más objetiva, hemos decidido evaluar los si
     - **Puntos débiles:** aspectos de la página que, bajo nuestro punto de vista, pueden dificultar la experiencia o resultar menos efectivos.
     - **Conclusiones:** breve resumen de la experiencia general y aprendizajes obtenidos del análisis.
 
+![Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.png) 
+
 **CONCLUSIÓN GENERAL TRAS EL COMPETITOR ANALYSIS:**
 
 En conclusión, el análisis muestra claras diferencias entre las páginas estudiadas. <br> Burger King destaca por ser la opción más completa y sólida, con un modelo de negocio muy desarrollado, lo que la convierte en una página casi perfecta. <br>
@@ -180,6 +182,8 @@ Mostaza Green Burger presenta una propuesta visual atractiva, con una arquitectu
 Por último, nuestro caso de estudio, Capital Burger, a pesar de su originalidad, presenta más carencias en comparación con las otras páginas de la competencia analizadas, resultando muy mejorable en prácticamente todos los aspectos evaluados.
 
 Por tanto, **según nuestro análisis, el orden de las páginas de mejor a peor sería el siguiente: Burger King, Mostaza Green Burger, Capital Burger**.
+
+:link: **Enlace al pdf: [Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.pdf)**
 
 
 ### 1.c Personas
