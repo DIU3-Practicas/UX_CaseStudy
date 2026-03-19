@@ -200,7 +200,6 @@ Por el otro, se tiene a **Laura Jiménez**, una madre granadina de 48 años y de
 
 ![Persona 2: Laura Jiménez](P1/3.Personas/Persona_2.png)
 
-
 Ambos perfiles comparten un escenario general similar: van a pedir hamburguesas para cenar con un grupo de personas. Sin embargo, el contexto de uso y las necesidades de dichos escenarios es distinto. Esta elección permite analizar cómo un mismo servicio debe adaptarse a distintos tipos de usuario, mostrando la importancia de tener en cuenta tanto personas y escenarios simples como situaciones que requieren mayor nivel de detalle en la información ofrecida y una toma de decisiones más delicada y elaborada.
 
 :link: **Enlaces a los archivos PDF: [Persona 1: ALberto García](P1/3.Personas/Persona_1.pdf), [Persona 2: Laura Jiménez](P1/3.Personas/Persona_2.pdf)**
