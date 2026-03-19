@@ -233,23 +233,30 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 - **Comentario sobre la revisión:**
 
     - **Puntos fuertes:** <br>
-          **i.**    Las funcionalidades principales cumplen los objetivos del usuario (hacer pedidos de forma efectiva). <br>
-         **ii.**   Los flujos de uso están bien resueltos y permiten completar tareas sin grandes dificultades. <br>
+        **i.**    Las funcionalidades principales cumplen los objetivos del usuario (hacer pedidos de forma efectiva). <br>
+        **ii.**   Los flujos de uso están bien resueltos y permiten completar tareas sin grandes dificultades. <br>
         **iii.**  Acceso directo al menú desde la página principal. <br>
 		**iv.**   Navegación intuitiva. <br>
 		**v.**    Estructura de la web alineada con los objetivos del usuario. <br>
 		**vi.**   Feedback constante al usuario al realizar el pedido (en el carrito). <br>
 		**vii.**  Posibilidad de modificar, cancelar y ajustar pedidos con facilidad. <br>
-		**viii**. Cada producto tiene su propio microformulario para determinar complementos, extras y comentarios para el restaurante. <br>
+		**viii.** Cada producto tiene su propio microformulario para determinar complementos, extras y comentarios para el restaurante. <br>
 		**ix.**   Lenguaje claro, comprensible y consistente. <br>
 		**x.**    Información de contacto accesible y visible. <br>
 		**xi.**   Compatibilidad con funciones estándar del navegador. <br>
-		**xii.**  Rendimiento aceptable sin bloquear el uso de la página web. <br>
+		**xii.**  Rendimiento aceptable sin bloquear el uso de la página web.
 
     - **Puntos débiles:** <br>
-        i. ... <br>
-        ii. ... <br>
-        iii. ...
+        **i.**    Falta de soporte para distintos niveles de usuario (sin ayudas ni atajos). <br>
+        **ii.**   Problemas de contraste en algunos botones. <br>
+        **iii.**  Página de inicio sobrecargada y poco clara  (vídeo invasivo y exceso de distracciones). <br>
+		**iv.**   Mala jerarquía visual en la homepage que dificulta la orientación. <br>
+		**v.**    Opciones de navegación a gusto del usuario muy limitadas (filtrado muy básico). <br>
+		**vi.**   Ausencia total de buscador. <br>
+		**vii.**  Obligatoriedad de registro para realizar seguimiento de pedidos. <br>
+		**viii.** El requisito de importe mínimo al realizar un pedido, aparece demasiado tarde (al iniciar el pago). <br>
+		**ix.**   Falta de textos alternativos en el contenido. <br>
+		**x.**    El banner de cookies es demasiado intrusivo en dispositivos móviles.
 
     - **Conclusión:** ...
 
