@@ -54,7 +54,7 @@ Miembros y nombre del equipo: MASE
 ![Método UX](img/Competitive.png) 
 -----
 
-**1. Antecedentes y Objetivos (The "Why").**
+**I. Antecedentes y Objetivos (The "Why").**
 
 - **Contexto:** Este proyecto busca mejorar la interfaz de la página web de la hamburguesería **Capital Burger**, para hacerla más comprensible, accesible y atractiva al usuario que la visite.
 
@@ -74,11 +74,11 @@ Miembros y nombre del equipo: MASE
    
     - **Como diseñadores**, tenemos una base de conocimientos adquiridos en usabilidad, accesibilidad y experiencia de usuario que pueden ser aplicables a este proyecto, desarrollados en otras asignaturas del Grado como Sistemas de Información Basados en Web (SIBW), Dirección y Gestión de Proyectos (DGP) y Metodologías de Desarrollo Ágil (MDA).
 
-**2. Metodología (The "How").**
+**II. Metodología (The "How").**
 
 La estrategia o metodología que seguiremos para llevar a cabo nuestra investigación será la siguiente: Comenzaremos empleando una herramienta de tipo **comparativa**, que se basará en la realización de un análisis de la competencia (*Competitor Analysis*) con plataformas similares (en nuestro caso, escogeremos Mostaza Green Burger y Burger King). A continuación, crearemos personas ficticias que nos ayuden a entender mejor al público objetivo, así como mapas de experiencia del usuario (*User Journey Experience Maps*) para cada una de esas personas que nos ayudarán a describir la interacción del usuario realizando las diferentes tareas. Por último, finalizaremos con una revisión de usabilidad (*Usability Review*), donde actuaremos como expertos en usabilidad.
 
-**3. Perfil de los Participantes (The "Who").**
+**III. Perfil de los Participantes (The "Who").**
 
 A continuación, se presenta el perfil de los participantes, incluyendo criterios de inclusión y segmentación para garantizar que la investigación refleje de forma adecuada al público objetivo:
 
@@ -98,7 +98,7 @@ A continuación, se presenta el perfil de los participantes, incluyendo criterio
 
     - **Usuarios externos:** participantes representativos del público objetivo de la página web de Capital Burger, seleccionados de acuerdo a los criterios de inclusión definidos. Se utilizarán para comprender y evaluar mejor al público objetivo y para identificar posibles problemas que hayan podido pasar desapercibidos con los usuarios de clase.
 
-**4. Guión y Tareas (The "What").**
+**IV. Guión y Tareas (The "What").**
 
 Para lograr evaluar los diferentes aspectos que hemos propuesto en el objetivo de la investigación, le vamos a pedir que el usuario haga exactamente las siguientes tareas:
 
@@ -110,7 +110,7 @@ Para lograr evaluar los diferentes aspectos que hemos propuesto en el objetivo d
 
 - **“Encuentra la dirección del local de Capital Burger que te interese, así como su horario de apertura y un medio de contacto”.** <br> Para comprobar que el usuario puede encontrar en menos de 20 segundos la dirección del local de Capital Burger que le interese en el momento actual, así como el horario de apertura y un medio de contacto.
 
-**5. Cronograma y Entregables.**
+**V. Cronograma y Entregables.**
 
 A lo largo del estudio, se van a desarrollar los siguientes entregables y en el siguiente orden:
 
@@ -228,10 +228,23 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- **Enlace al documento PDF: [Usability Review](P1/5.Usability_Review/Usability_Review.pdf)**
+  
+- **Valoración numérica obtenida:** 73 - Good ("Los usuarios deberían poder utilizar este sitio con relativa facilidad y ser capaces de completar la gran mayoría de tareas importantes")
+  
+- **Comentario sobre la revisión:**
+
+    **Puntos fuertes:**
+        i. ...
+        ii. ...
+        iii. ...
+
+    **Puntos débiles:**
+        i. ...
+        ii. ...
+        iii. ...
+
+    **Conclusión:** ...
 
 
 ### 1.f Briefing
