@@ -173,7 +173,7 @@ Para poder realizar una comparativa más objetiva, hemos decidido evaluar los si
     - **Puntos débiles:** aspectos de la página que, bajo nuestro punto de vista, pueden dificultar la experiencia o resultar menos efectivos.
     - **Conclusiones:** breve resumen de la experiencia general y aprendizajes obtenidos del análisis.
 
-![Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.png) 
+[Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.png) 
 
 **CONCLUSIÓN GENERAL TRAS EL COMPETITOR ANALYSIS:**
 
