@@ -8,5 +8,4 @@
 - Briefing: [Briefing](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P1/6.Briefing/Briefing.pdf)
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+Esta práctica 1 ha consistido en evaluar los principios de usabilidad y la experiencia de usuario de la página web de Capital Burger, aplicando el proceso definido en el Plan de Investigación de Usuario. A través del análisis de la competencia, la creación de personas ficticias y mapas de experiencia del usuario, junto con la revisión de usabilidad, se han identidicado problemas clave y grandes oportunidades de mejora.
