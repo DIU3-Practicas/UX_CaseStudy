@@ -227,27 +227,28 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
-- **Enlace al documento PDF: [Usability Review](P1/5.Usability_Review/Usability_Review.pdf)**
   
 - **Valoración numérica obtenida:** 73 - Good ("Los usuarios deberían poder utilizar este sitio con relativa facilidad y ser capaces de completar la gran mayoría de tareas importantes")
   
 - **Comentario sobre la revisión:**
 
-    **Puntos fuertes:**
+    **Puntos fuertes:** <br>
         i. ... <br>
         ii. ... <br>
         iii. ... <br>
 
-    **Puntos débiles:**
+    **Puntos débiles:** <br>
         i. ... <br>
         ii. ... <br>
         iii. ...
 
     **Conclusión:** ...
 
+:link: **Enlace al documento PDF: [Usability Review](P1/5.Usability_Review/Usability_Review.pdf)**
+
 
 ### 1.f Briefing 
+     
 ----
 
 Tal y como se indicó en el **Plan de Investigación de Usuario (*User Research Plan*)**, este proyecto buscaba mejorar la interfaz de la página web de **Capital Burger**, haciéndola más comprensible, accesible y atractiva, con el objetivo de optimizar la experiencia del usuario y favorecer tanto las ventas online como en el local.
