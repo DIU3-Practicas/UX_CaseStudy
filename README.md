@@ -126,7 +126,7 @@ A lo largo del estudio, se van a desarrollar los siguientes entregables y en el 
 
 - Por último, también realizaremos un **Briefing**, que actuará como un resumen ejecutivo de la práctica, redactado como si quisiéramos aportar la revisión de un experto en UX/Usabilidad sobre el sitio web Capital Burger.
 
-:link: **Enlace al archivo PDF: [User Resarch Plan](P1/1.User_Research_Plan/User_Research_Plan.pdf)**
+:link: **Enlace al documento PDF: [User Resarch Plan](P1/1.User_Research_Plan/User_Research_Plan.pdf)**
 
 
 ### 1.b Competitive Analysis
@@ -183,7 +183,7 @@ Por último, nuestro caso de estudio, Capital Burger, a pesar de su originalidad
 
 Por tanto, **según nuestro análisis, el orden de las páginas de mejor a peor sería el siguiente: Burger King, Mostaza Green Burger, Capital Burger**.
 
-:link: **Enlace al archivo PDF: [Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.pdf)**
+:link: **Enlace al documento PDF: [Competitor Analysis](P1/2.Competitor_Analysis/Competitor_Analysis.pdf)**
 
 
 ### 1.c Personas
@@ -202,7 +202,7 @@ Por el otro, se tiene a **Laura Jiménez**, una madre granadina de 48 años y de
 
 Ambos perfiles comparten un escenario general similar: van a pedir hamburguesas para cenar con un grupo de personas. Sin embargo, el contexto de uso y las necesidades de dichos escenarios es distinto. Esta elección permite analizar cómo un mismo servicio debe adaptarse a distintos tipos de usuario, mostrando la importancia de tener en cuenta tanto personas y escenarios simples como situaciones que requieren mayor nivel de detalle en la información ofrecida y una toma de decisiones más delicada y elaborada.
 
-:link: **Enlaces a los archivos PDF: [Persona 1: Alberto García](P1/3.Personas/Persona_1.pdf), [Persona 2: Laura Jiménez](P1/3.Personas/Persona_2.pdf)**
+:link: **Enlaces a los documentos PDF: [Persona 1: Alberto García](P1/3.Personas/Persona_1.pdf), [Persona 2: Laura Jiménez](P1/3.Personas/Persona_2.pdf)**
 
 
 ### 1.d User Journey Map
@@ -221,7 +221,7 @@ Por otro lado, el escenario de **Laura Jiménez** se trata de un caso de navegac
 
 También hemos querido recalcar las distintas reacciones de las personas a asuntos como el precio, la disponibilidad del servicio, el coste de envío, la variedad del menú, etc. Esto permite identificar no solo problemas de usabilidad, sino también puntos más subjetivos para ampliar así las oportunidades de mejora de la página web de Capital Burger y, por tanto, de la experiencia de usuario.
 
-:link: **Enlaces a los archivos PDF: [Journey Map de la persona 1 (Alberto García)](P1/4.Journey_Maps/Journey_Map_1.pdf), [Journey Map de la persona 2 (Laura Jiménez)](P1/4.Journey_Maps/Journey_Map_2.pdf)**
+:link: **Enlaces a los documentos PDF: [Journey Map de la persona 1 (Alberto García)](P1/4.Journey_Maps/Journey_Map_1.pdf), [Journey Map de la persona 2 (Laura Jiménez)](P1/4.Journey_Maps/Journey_Map_2.pdf)**
 
 
 ### 1.e Usability Review
@@ -232,6 +232,23 @@ También hemos querido recalcar las distintas reacciones de las personas a asunt
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+
+
+### 1.f Briefing
+----
+
+Tal y como se indicó en el Plan de Investigación de Usuario (User Research Plan), este proyecto buscaba mejorar la interfaz de la página web de Capital Burger, haciéndola más comprensible, accesible y atractiva, con el objetivo de optimizar la experiencia del usuario y favorecer tanto las ventas online como en el local.
+
+Para ello, comenzamos realizando un análisis de la competencia (Competitor Analysis) comparando Capital Burger con Burger King y Mostaza Green Burger. Burger King destacó por ser la opción más completa y sólida, con un modelo de negocio muy desarrollado; Mostaza Green Burger ofrecía un diseño atractivo y una arquitectura de información prácticamente excelente; Capital Burger, aunque original, presentó más carencias y oportunidades de mejora, posicionándose en último lugar.
+
+Para analizar la página web de Capital Burger y para profundizar en la experiencia de usuario, se definieron dos personas ficticias con contextos y necesidades distintas pero un objetivo común: realizar un pedido. Alberto García, joven opositor, tuvo una experiencia rápida desde el móvil, pero se topó con problemas como aviso de cookies invasivo, pantalla de producto lenta, gastos de envío altos y obligación de registrarse para poder seguir el rastro del pedido. Laura Jiménez, madre y dependienta, realizó un pedido más complejo y delicado desde el ordenador familiar, enfrentándose a un diseño recargado y confuso, falta de información sobre alérgenos y ausencia de número de teléfono para contacto inmediato, lo que la llevó a recurrir a la competencia.
+El uso de estas personas ficticias y mapas de experiencia del usuario (User Journey Experience Maps) permitió identificar problemas de diseño, usabilidad, funcionalidad y experiencia de usuario, así como aspectos subjetivos relacionados con el precio, la variedad del menú, el coste de envío, etc. Además, facilitó la búsqueda de oportunidades claras de mejora, ofreciendo recomendaciones concretas para optimizar la experiencia de usuario en la página web de Capital Burger.
+
+Por último, finalizamos el estudio con una revisión de usabilidad (Usability Review), donde también valoramos algunos aspectos técnicos relacionados con las funcionalidades y navegación, entre otros. Concluimos que, gracias a que la página para pedir comida está asociada a una plataforma distinta (Delitbee), Capital Burger tiene una base relativamente sólida en relación al UX de realizar un pedido. Sin embargo, la página no asociada a Delitbee le resta puntos en el resultado general.
+
+En conclusión, la página web de Capital Burger, al igual que muchas otras páginas web de hamburgueserías similares (como la de Goikos), requiere de bastante trabajo para mejorar su interfaz y hacerla más atractiva y accesible para los distintos usuarios de esta. Discutiremos maneras de hacer esto en la siguiente práctica.
+
+:link: **Enlace al documento PDF: [Briefing](P1/6.Briefing/Briefing.pdf)**
 
 <br>
 
