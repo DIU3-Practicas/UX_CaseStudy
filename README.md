@@ -56,7 +56,7 @@ Miembros y nombre del equipo: MASE
 
 **1. Antecedentes y Objetivos (The "Why").**
 
-- **Contexto:** Este proyecto busca mejorar la interfaz de la página web de la hamburguesería Capital Burger, para hacerla más comprensible, accesible y atractiva al usuario que la visite.
+- **Contexto:** Este proyecto busca mejorar la interfaz de la página web de la hamburguesería **Capital Burger**, para hacerla más comprensible, accesible y atractiva al usuario que la visite.
 
 - **Objetivos de investigación:** Además de mejorar la experiencia del usuario al usar la plataforma, se busca determinar cómo atraer a más clientes e incrementar las ventas, tanto en el local como en la tienda online. En concreto, se evaluarán aspectos como, por ejemplo, los siguientes:
 
