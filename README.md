@@ -331,7 +331,7 @@ El **User Flow de *Cancelar reserva*** representa el flujo del usuario para anul
 
 ![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
 
-Por último, se muestra la **matriz de tareas del usuario**, que recoge las principales acciones que este puede realizar en relación con la funcionalidad de reservas dentro de la página web.
+Por último, se muestra la **matriz de tareas del usuario**, en la que se recogen las principales acciones que este puede llevar a cabo en relación con las nuevas funcionalidades planteadas en nuestra propuesta de valor.
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
