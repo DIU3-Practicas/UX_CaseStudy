@@ -1,6 +1,6 @@
 ## DIU - Practica2, entregables
 
-### Ideación 
+### IDEACIÓN 
 * Malla receptora de información 
 * Mapa de empatía: [Customer Empathy Map](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/1.Ideacion/Customer_Empathy_Map.pdf)
 * Point of View 
