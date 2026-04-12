@@ -300,9 +300,19 @@ Gracias al mapa de empatía, hemos podido comprender en profundidad el comportam
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+El proyecto **Capital Burger Facelift** tiene como objetivo rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto), y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web.
 
+Este proyecto no solo tiene como objetivo facilitar acciones claves o básicas como realizar pedidos de forma rápida o encontrar más información de utilidad, sino también transformar la web en una plataforma orientada a la gestión y organización de eventos privados (despedidas, cumpleaños, LAN parties, etc.). 
+
+Por un lado, a largo plazo, el objetivo es atraer a organizaciones y promotores de eventos a la página web, fomentando el establecimiento de relaciones sólidas y duraderas con la marca. Además, se busca lograr el patrocinio de eventos para ofrecer nuestros servicios, aumentar la visibilidad de la marca y atraer a un mayor número de clientes a nuestros locales.
+
+Por otro lado, a corto plazo, se busca aprovechar la popularidad actual de Capital Burger para impulsar la organización de eventos en nuestros locales y aumentar la notoriedad de la marca. También, se pretende incorporar nuevas e interesantes funcionalidades a la página web, con el objetivo de hacerla más atractiva y mejorar la experiencia de los usuarios.
+
+De esta forma, se permitirá impulsar acciones como consultar los próximos eventos organizados por la empresa, visualizar un mapa interactivo con los restaurantes disponibles para eventos privados y obtener información, así como realizar reservas para su organización. Todo ello se medirá a través de indicadores como el aumento del número de visitas a la página, el incremento en el número de reseñas y valoraciones positivas, el aumento significativo en el número de pedidos realizados por la web, el elevado número de asistentes a los eventos organizados por la empresa y el elevado número de reservas realizadas para eventos privados.
+
+![Customer_Empathy_Map](P2/2.Propuesta_de_Valor/Scope_Canvas.png)
+
+:link: **Enlace al documento PDF: [Scope Canvas](P2/2.Propuesta_de_Valor/Scope_Canvas.pdf)**
 
 
 ### 2.b User Flow (task) analysis 
