@@ -319,9 +319,9 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.pdf)
-![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.pdf)
-![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.pdf)
+![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.png)
+![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.png)
+![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
