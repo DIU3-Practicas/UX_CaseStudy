@@ -310,7 +310,7 @@ Por otro lado, a corto plazo, se busca aprovechar la popularidad actual de Capit
 
 De esta forma, se permitirá impulsar acciones como consultar los próximos eventos organizados por la empresa, visualizar un mapa interactivo con los restaurantes disponibles para eventos privados y obtener información, así como realizar reservas para su organización. Todo ello se medirá a través de indicadores como el aumento del número de visitas a la página, el incremento en el número de reseñas y valoraciones positivas, el aumento significativo en el número de pedidos realizados por la web, el elevado número de asistentes a los eventos organizados por la empresa y el elevado número de reservas realizadas para eventos privados.
 
-![Customer_Empathy_Map](P2/2.Propuesta_de_Valor/Scope_Canvas.png)
+![Scope Canvas](P2/2.Propuesta_de_Valor/Scope_Canvas.png)
 
 :link: **Enlace al documento PDF: [Scope Canvas](P2/2.Propuesta_de_Valor/Scope_Canvas.pdf)**
 
