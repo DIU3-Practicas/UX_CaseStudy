@@ -35,7 +35,7 @@ Para lograrlo, hemos empleando diferentes herramientas:
 
 En primer lugar, comenzamos con el proceso de Ideación, elaborando un mapa de empatía. 
 
-A continuación, trabajamos el Scope Canvas y definimos claramente nuestra propuesta de valor, donde queda reflejado nuestro principal propósito de ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) a través de nuestra plataforma.
+A continuación, trabajamos el Scope Canvas y definimos claramente nuestra propuesta de valor, donde queda reflejado nuestro principal propósito de ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra plataforma.
 
 Seguidamente, realizamos el Análisis de Tareas mediante los User Flows y la User Task Matrix asociada.
 
