@@ -282,13 +282,14 @@ En conclusión, la página web de Capital Burger, al igual que muchas otras pág
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+En la etapa de Ideación, hemos decidido emplear un mapa de empatía para recabar el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar mejor nuestra nueva propuesta de diseño de la página web de Capital Burger.
+
+![Customer_Empathy_Map](P2/1.Ideacion/Customer_Empathy_Map.png)
 
 
  Interesante | Críticas     
@@ -298,6 +299,7 @@ En conclusión, la página web de Capital Burger, al igual que muchas otras pág
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+:link: **Enlace al documento PDF: [Briefing](P2/1.Ideacion/Customer_Empathy_Map.pdf)**
 
 
 ### 2.b ScopeCanvas
