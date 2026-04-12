@@ -285,7 +285,7 @@ En conclusión, la página web de Capital Burger, al igual que muchas otras pág
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-En la etapa de Ideación, hemos decidido emplear un mapa de empatía para recabar el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar mejor nuestra nueva propuesta de diseño de la página web de Capital Burger.
+En la etapa de Ideación, hemos decidido emplear un **mapa de empatía** para recabar el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar mejor nuestra nueva propuesta de diseño de la página web de Capital Burger.
 
 ![Customer_Empathy_Map](P2/1.Ideacion/Customer_Empathy_Map.png)
 
