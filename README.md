@@ -19,9 +19,7 @@ Actualizado: 12/04/2026
 
 Grupo: DIU3_MASE.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
-Capital Burger Facelift
+Nombre del Proyecto: Capital Burger Facelift
 
 Descripción: 
 
