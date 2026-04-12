@@ -317,7 +317,9 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página en tres situaciones relacionadas con las reservas: realizar, modificar y cancelar reserva:
+
+
 
 ![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.png)
 ![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.png)
