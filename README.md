@@ -21,7 +21,7 @@ Grupo: DIU3_MASE.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
-**Capital Burger Facelift**
+Capital Burger Facelift
 
 Descripción: 
 
@@ -31,9 +31,9 @@ Logotipo:
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
-Miembros y nombre del equipo: **MASE**
- * :bust_in_silhouette:  **Manuel Enríquez Ledesma**     :octocat:  [manuenrle](https://github.com/manuenrle)     
- * :bust_in_silhouette:  **Sergio González Rodríguez**     :octocat:  [ZyrearUni](https://github.com/ZyrearUni)
+Miembros y nombre del equipo: MASE
+ * :bust_in_silhouette:  Manuel Enríquez Ledesma     :octocat:  [manuenrle](https://github.com/manuenrle)     
+ * :bust_in_silhouette:  Sergio González Rodríguez     :octocat:  [ZyrearUni](https://github.com/ZyrearUni)
 
 ----- 
 
