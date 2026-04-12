@@ -319,19 +319,19 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 
 En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página web en tres situaciones distintas relacionadas con las reservas: realizar, modificar y cancelar reserva.
 
-El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
+El User Flow de ***Realizar reserva*** representa el flujo del usuario para efectuar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
 
 ![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.png)
 
-El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
+El User Flow de ***Modificar reserva*** representa el flujo del usuario para hacer cambios en los datos de información de una reserva.
 
 ![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.png)
 
-El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
+El User Flow de ***Cancelar reserva*** representa el flujo del usuario para anular una reserva.
 
 ![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
 
-Por último, se muestra la matriz de tareas del usuario con las principales tareas de un usuario en cuanto a la funcionalidad de las reservas al utilizar la página web.
+Por último, se muestra la matriz de tareas del usuario, que recoge las principales acciones que este puede realizar en relación con la funcionalidad de reservas dentro de la página web.
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
