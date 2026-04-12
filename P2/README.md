@@ -2,27 +2,30 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
+* Mapa de empatía: [Customer Empathy Map](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/1.Ideacion/Customer_Empathy_Map.pdf)
 * Point of View 
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* ScopeCanvas: [Scope Canvas](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/2.Propuesta_de_Valor/Scope_Canvas.pdf)
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* User Task Matrix: [User Task Matrix](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/3.Analisis_de_Tareas/User_Task_Matrix.pdf)
+* User/Task flow: [User Flows](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/3.Analisis_de_Tareas/User_Flows.pdf)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* Sitemap: [Sitemap](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/4.Arquitectura_de_Informacion/Sitemap.pdf)
+* Labelling: [Labelling](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/4.Arquitectura_de_Informacion/Labelling.pdf)
 
 
-### Prototipo Lo-FI Wireframe 
+### PROTOTIPO
+
+* Primer esbozo en papel: [Boceto inicial a mano](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/5.Prototipo/Boceto_inicial_a_mano.pdf)
+* Lo-FI Wireframes: [Wireframes](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/5.Prototipo/Wireframes.pdf)
 
 
 ### Conclusiones  
