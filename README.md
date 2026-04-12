@@ -300,7 +300,7 @@ Gracias al mapa de empatía, hemos podido comprender en profundidad el comportam
 
 El proyecto **Capital Burger Facelift** tiene como objetivo rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto), y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web.
 
-Este proyecto no solo tiene como objetivo facilitar acciones claves o básicas como realizar pedidos de forma rápida o encontrar más información de utilidad, sino también transformar la web en una plataforma orientada a la gestión y organización de eventos privados (despedidas, cumpleaños, LAN parties, etc.). 
+Este proyecto no solo tiene como objetivo facilitar acciones claves o básicas como realizar pedidos de forma rápida o encontrar más información de utilidad, sino también transformar la web en una **plataforma orientada a la gestión y organización de eventos privados** (despedidas, cumpleaños, LAN parties, etc.). 
 
 Por un lado, a largo plazo, el objetivo es atraer a organizaciones y promotores de eventos a la página web, fomentando el establecimiento de relaciones sólidas y duraderas con la marca. Además, se busca lograr el patrocinio de eventos para ofrecer nuestros servicios, aumentar la visibilidad de la marca y atraer a un mayor número de clientes a nuestros locales.
 
