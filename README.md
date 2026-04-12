@@ -319,6 +319,14 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
+![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.pdf)
+![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.pdf)
+![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.pdf)
+
+![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
+
+:link: **Enlaces a los documentos PDF: [User Flows](P2/3.Analisis_de_Tareas/User_Flows.pdf), [User Task Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.pdf)**
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
