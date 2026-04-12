@@ -313,24 +313,32 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 :link: **Enlace al documento PDF: [Scope Canvas](P2/2.Propuesta_de_Valor/Scope_Canvas.pdf)**
 
 
-### 2.b User Flow (task) analysis 
+### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
-En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página en tres situaciones relacionadas con las reservas: realizar, modificar y cancelar reserva:
+En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página web en tres situaciones distintas relacionadas con las reservas: realizar, modificar y cancelar reserva.
 
-
+El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
 
 ![User Flow de Realizar reserva](P2/3.Analisis_de_Tareas/User_Flow_Realizar_reserva.png)
+
+El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
+
 ![User Flow de Modificar reserva](P2/3.Analisis_de_Tareas/User_Flow_Modificar_reserva.png)
+
+El User Flow de ***Realizar reserva*** representa el flujo del usuario para realizar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
+
 ![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
+
+Por último, se muestra la matriz de tareas del usuario con las principales tareas de un usuario en cuanto a la funcionalidad de las reservas al utilizar la página web.
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
 :link: **Enlaces a los documentos PDF: [User Flows](P2/3.Analisis_de_Tareas/User_Flows.pdf), [User Task Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.pdf)**
 
 
-### 2.c IA: Sitemap + Labelling 
+### 2.d IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
@@ -341,7 +349,7 @@ Término | Significado
   Login  | acceder a plataforma
 
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
