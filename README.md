@@ -298,7 +298,7 @@ Gracias al mapa de empatía, hemos podido comprender en profundidad el comportam
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-El proyecto **Capital Burger Facelift** tiene como objetivo rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto), y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web.
+El proyecto **Capital Burger Facelift** tiene como objetivo rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo realizado. En concreto, se centra en **solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto), y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web**.
 
 Este proyecto no solo tiene como objetivo facilitar acciones claves o básicas como realizar pedidos de forma rápida o encontrar más información de utilidad, sino también transformar la web en una **plataforma orientada a la gestión y organización de eventos privados** (despedidas, cumpleaños, LAN parties, etc.). 
 
