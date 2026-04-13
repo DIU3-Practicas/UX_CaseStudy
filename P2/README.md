@@ -29,13 +29,13 @@
 
 
 ### Conclusiones  
-Esta práctica 2 ha consistido en aplicar las conclusiones de la práctica 1 (personas ficticias previas, experiencias negativas de uso, elementos de usabilidad débiles, etc.) a la nueva propuesta de servicio que hemos comenzado a elaborar. Nuestro proyecto, **Capital Burger Facelift**, tiene como objetivo rediseñar la página web de Capital Burger, abordando las principales debilidades detectadas en el análisis competitivo.
+Esta práctica 2 ha consistido en aplicar las conclusiones de la práctica 1 (personas ficticias previas, experiencias negativas de uso, elementos de usabilidad débiles, etc.) a la nueva propuesta de servicio que hemos comenzado a elaborar. Nuestro proyecto, **Capital Burger Facelift**, busca rediseñar la página web de Capital Burger para captar y fidelizar a un mayor número de clientes.
 
 Para lograrlo, hemos empleando diferentes herramientas: 
 
 En primer lugar, comenzamos con el proceso de Ideación, elaborando un mapa de empatía (Customer Empathy Map). 
 
-A continuación, trabajamos el Scope Canvas y definimos claramente nuestra propuesta de valor, donde queda reflejado nuestro principal propósito de ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra plataforma.
+A continuación, trabajamos el Scope Canvas y definimos claramente nuestra propuesta de valor, cuyo objetivo no es solo solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto) y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web, sino también ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra plataforma.
 
 Seguidamente, realizamos el Análisis de Tareas mediante los User Flows y la matriz de tareas del usuario (User Task Matrix) asociada.
 
