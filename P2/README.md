@@ -25,7 +25,7 @@
 ### PROTOTIPO
 
 * Primer esbozo en papel: [Boceto inicial a mano](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/5.Prototipo/Boceto_inicial_a_mano.pdf)
-* Lo-FI Wireframes: [Wireframes](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/5.Prototipo/Wireframes.pdf)
+* Lo-Fi Wireframes: [Wireframes](https://github.com/DIU3-MASE/UX_CaseStudy/blob/master/P2/5.Prototipo/Wireframes.pdf)
 
 
 ### Conclusiones  
