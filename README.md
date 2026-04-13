@@ -331,7 +331,7 @@ El **User Flow de *Cancelar reserva*** representa el flujo del usuario para anul
 
 ![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
 
-Por último, se muestra la **matriz de tareas del usuario**, en la que se recogen las principales acciones que este puede llevar a cabo en relación con las nuevas funcionalidades planteadas en nuestra propuesta de valor. En ella, cada tarea ha sido valorada según su prioridad o relevancia (alta, media, baja o sin acceso) para los distintos tipos de usuario (usuario sin reserva y usuario con reserva). <br> Recordamos que nuestra propuesta de valor impulsa acciones entre las que destacan la consulta de los próximos eventos organizados por la empresa y también la realización de reservas para la organización de eventos privados (previa visualización de un mapa interactivo con los restaurantes disponibles y la obtención de información), con la posibilidad de modificarlas o cancelarlas.
+Por último, se muestra la **User Task Matrix**, en la que se recogen las principales acciones que este puede llevar a cabo en relación con las nuevas funcionalidades planteadas en nuestra propuesta de valor. En ella, cada tarea ha sido valorada según su prioridad o relevancia (alta, media, baja o sin acceso) para los distintos tipos de usuario (usuario sin reserva y usuario con reserva). <br> Recordamos que nuestra propuesta de valor impulsa acciones entre las que destacan la consulta de los próximos eventos organizados por la empresa y también la realización de reservas para la organización de eventos privados (previa visualización de un mapa interactivo con los restaurantes disponibles y la obtención de información), con la posibilidad de modificarlas o cancelarlas.
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
@@ -342,11 +342,17 @@ Por último, se muestra la **matriz de tareas del usuario**, en la que se recoge
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+En este apartado, hemos propuesto una organizaicón lógica de la navegación y elementos de diseño. Para ello, hemos generado el mapa del sitio junto con el etiquetado correspondiente.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+**Sitemap**:
+
+![User_Task_Matrix](P2/4.Arquitectura_de_Informacion/Sitemap.png)
+
+**Labelling**:
+
+![User_Task_Matrix](P2/4.Arquitectura_de_Informacion/Labelling.png)
+
+:link: **Enlaces a los documentos PDF: [Sitemap](P2/4.Arquitectura_de_Informacion/Sitemap.pdf), [Labelling](P2/4.Arquitectura_de_Informacion/Labelling.pdf)**
 
 
 ### 2.e Wireframes
