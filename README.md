@@ -367,7 +367,7 @@ Para ello, hemos comenzado elaborando un boceto inicial a mano:
 
 Posteriormente, hemos elaborado en Figma el wireframe preliminar
 
-![Wireframe (Web)](P2/5.Prototipo/Wireframe_Pagina_de_reservas.png)
+![Wireframe (Web)](P2/5.Prototipo/Wireframe_Web_Pagina_de_reservas.png)
 
 ![Wireframe responsive (Tablet e iPad)](P2/5.Prototipo/Wireframe_Tablet_e_iPad_Pagina_de_reservas.png)
 
