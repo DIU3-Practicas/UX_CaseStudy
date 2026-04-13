@@ -342,7 +342,7 @@ Por último, se muestra la **User Task Matrix**, en la que se recogen las princi
 ![Método UX](img/labelling.png) 
 ----
 
-En este apartado, hemos propuesto una organización lógica de la navegación y elementos de diseño en nuestra página web. Para ello, hemos generado el mapa del sitio junto con el etiquetado correspondiente.
+En este apartado, hemos propuesto una organización lógica de la navegación y elementos de diseño en la página web. Para ello, hemos generado el mapa del sitio junto con el etiquetado correspondiente.
 
 **Sitemap**:
 
