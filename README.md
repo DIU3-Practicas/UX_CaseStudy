@@ -331,7 +331,7 @@ El **User Flow de *Cancelar reserva*** representa el flujo del usuario para anul
 
 ![User Flow de Cancelar reserva](P2/3.Analisis_de_Tareas/User_Flow_Cancelar_reserva.png)
 
-Por último, se muestra la **matriz de tareas del usuario**, en la que se recogen las principales acciones que este puede llevar a cabo en relación con las nuevas funcionalidades planteadas en nuestra propuesta de valor. <br> Recordamos que nuestra propuesta de valor impulsa acciones como consultar los próximos eventos organizados por la empresa, visualizar un mapa interactivo con los restaurantes disponibles para eventos privados y obtener información y realizar reservas para su organización, con la posibilidad de modificarlas o cancelarlas.
+Por último, se muestra la **matriz de tareas del usuario**, en la que se recogen las principales acciones que este puede llevar a cabo en relación con las nuevas funcionalidades planteadas en nuestra propuesta de valor. <br> Recordamos que nuestra propuesta de valor impulsa acciones entre las que destacan la consulta de los próximos eventos organizados por la empresa, la visualización de un mapa interactivo con los restaurantes disponibles para eventos privados y la obtención de información y la realización de reservas para su organización, con la posibilidad de modificarlas o cancelarlas.
 
 ![User_Task_Matrix](P2/3.Analisis_de_Tareas/User_Task_Matrix.png)
 
