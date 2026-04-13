@@ -289,7 +289,7 @@ En la etapa de Ideación, hemos decidido emplear un **mapa de empatía** para re
 
 ![Customer_Empathy_Map](P2/1.Ideacion/Customer_Empathy_Map.png)
 
-Gracias al mapa de empatía, hemos podido comprender en profundidad el comportamiento, las necesidades y los puntos de dolor de los usuarios. Como se detallará a continuación, este análisis ha contribuido al nacimiento de nuestro proyecto **Capital Burger Facelift**, cuya propuesta de valor tiene como objetivo no solo solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto) y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web, sino también ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra renovada plataforma.
+Gracias al mapa de empatía, hemos podido comprender en profundidad el comportamiento, las necesidades y los puntos de dolor de los usuarios. Como se detallará a continuación, este análisis ha contribuido al nacimiento de nuestro proyecto **Capital Burger Facelift**, cuya propuesta de valor tiene como propósito no solo solucionar problemas como la falta de información relevante (guía de valores nutricionales, alérgenos y contacto) y una estructura y diseño poco intuitivos que dificultan la navegación y comprensión de la página web, sino también ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra renovada plataforma.
 
 :link: **Enlace al documento PDF: [Customer Empathy Map](P2/1.Ideacion/Customer_Empathy_Map.pdf)**
 
