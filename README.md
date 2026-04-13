@@ -359,7 +359,21 @@ En este apartado, hemos propuesto una organización lógica de la navegación y 
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Finalmente, hemos desarrollado el prototipo, realizando diferentes bocetos Lo-Fi de la página de reservas de nuestro proyecto.
+
+Para ello, hemos comenzado elaborando un boceto inicial a mano:
+
+![Boceto inicial a mano](P2/5.Prototipo/Boceto_inicial_a_mano.png)
+
+Posteriormente, hemos elaborado en Figma el wireframe preliminar
+
+![Wireframe (Web)](P2/5.Prototipo/Wireframe_Pagina_de_reservas.png)
+
+![Wireframe responsive (Tablet e iPad)](P2/5.Prototipo/Wireframe_Tablet_e_iPad_Pagina_de_reservas.png)
+
+![Wireframe responsive (Móvil)](P2/5.Prototipo/Wireframe_Movil_Pagina_de_reservas.png)
+
+:link: **Enlaces a los documentos PDF: [Boceto inicial a mano](P2/5.Prototipo/Boceto_inicial_a_mano.pdf), [Wireframes](P2/5.Prototipo/Wireframes.pdf)**
 
 <br>
 
