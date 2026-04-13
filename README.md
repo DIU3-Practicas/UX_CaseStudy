@@ -365,11 +365,11 @@ Para ello, comenzamos con la elaboración de un **boceto inicial a mano**:
 
 ![Boceto inicial a mano](P2/5.Prototipo/Boceto_inicial_a_mano.png)
 
-Posteriormente, diseñamos en Figma el **wireframe preliminar en su versión para web** (con tamaño 1440x1024px, retícula de 12 columnas, márgenes laterales de 120px e interespaciado de 20px):
+Posteriormente, diseñamos en **Figma** el **wireframe preliminar en su versión para web** (con tamaño 1440x1024px, retícula de 12 columnas, márgenes laterales de 120px e interespaciado de 20px):
 
 ![Wireframe (Web)](P2/5.Prototipo/Wireframe_Web_Pagina_de_reservas.png)
 
-También realizamos sus correspondientes **versiones responsive**, 
+También realizamos en **Figma** sus correspondientes **versiones responsive**, 
 
 tanto para **iPad y tablet** (con tamaño 768x1024px, retícula de 8 columnas, márgenes laterales de 40px e interespaciado de 20px):
 
