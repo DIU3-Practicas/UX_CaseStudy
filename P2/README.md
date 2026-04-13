@@ -33,12 +33,12 @@ Esta práctica 2 ha consistido en aplicar las conclusiones de la práctica 1 (pe
 
 Para lograrlo, hemos empleando diferentes herramientas: 
 
-En primer lugar, comenzamos con el proceso de Ideación, elaborando un mapa de empatía. 
+En primer lugar, comenzamos con el proceso de Ideación, elaborando un mapa de empatía (Customer Empathy Map). 
 
 A continuación, trabajamos el Scope Canvas y definimos claramente nuestra propuesta de valor, donde queda reflejado nuestro principal propósito de ofrecer la posibilidad de gestionar y organizar eventos privados (despedidas, cumpleaños, etc.) en los restaurantes a través de nuestra plataforma.
 
-Seguidamente, realizamos el Análisis de Tareas mediante los User Flows y la matriz de tareas del usuario asociada.
+Seguidamente, realizamos el Análisis de Tareas mediante los User Flows y la matriz de tareas del usuario (User Task Matrix) asociada.
 
-Después, en la etapa de Arquitectura de Información, creamos el mapa del sitio junto con el etiquetado correspondiente.
+Después, en la etapa de Arquitectura de Información, creamos el mapa del sitio (Sitemap) junto con el etiquetado (Labelling) correspondiente.
 
 Por último, desarrollamos el prototipo, comenzando con un boceto inicial a mano y, posteriormente, elaborando en la plataforma Figma el wireframe preliminar y sus versiones responsive (tanto para iPad y tablet como para móvil).
