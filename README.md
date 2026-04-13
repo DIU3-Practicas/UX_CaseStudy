@@ -23,7 +23,7 @@ Nombre del Proyecto: Capital Burger Facelift
 
 Descripción: 
 
-La idea de nuestro proyecto es rediseñar la página web de Capital Burger para convertirla en una plataforma más intuitiva, funcional y orientada a la experiencia del usuario. No solo se busca mejorar la navegación y el acceso a información de utilidad, sino también transformar la web incorporando nuevas funcionalidades enfocadas en la gestión y organización de eventos privados en los distintos restaurantes, así como la inclusión de una sección de próximos eventos organizados por la marca. De este modo, la página evoluciona de un sitio informativo y de pedidos a una herramienta que amplía su utilidad y facilita la interacción con los usuarios.
+La idea de nuestro proyecto es rediseñar la página web de Capital Burger para convertirla en una plataforma más intuitiva, funcional y orientada a la experiencia del usuario. No solo se busca mejorar la navegación y el acceso a información de utilidad, sino también transformar la web incorporando nuevas funcionalidades de reserva, enfocadas en la gestión y organización de eventos privados en los distintos restaurantes, así como la inclusión de una sección de próximos eventos organizados por la marca. De este modo, la página evoluciona de un sitio informativo y de pedidos a una herramienta que amplía su utilidad y facilita la interacción con los usuarios.
 
 Logotipo: 
 
