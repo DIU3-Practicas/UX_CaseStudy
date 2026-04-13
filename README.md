@@ -317,7 +317,7 @@ De esta forma, se permitirá impulsar acciones como consultar los próximos even
 ![Método UX](img/Sitemap.png) 
 -----
 
-En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar una matriz de tareas del usuario y tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página web en tres situaciones distintas relacionadas con las reservas: realizar, modificar y cancelar reserva.
+En esta etapa, se identifican las tareas principales y su relevancia para los usuarios. Para ello, hemos decidido realizar una matriz de tareas del usuario y tres User Flows que muestran los pasos que deben seguir los usuarios al usar nuestra página web en tres situaciones distintas relacionadas con las reservas: realizar, modificar y cancelar.
 
 El **User Flow de *Realizar reserva*** representa el flujo del usuario para efectuar una reserva con el objetivo de organizar un evento privado en alguno de los restaurantes de Capital Burger.
 
