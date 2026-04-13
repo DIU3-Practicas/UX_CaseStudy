@@ -361,15 +361,21 @@ En este apartado, hemos propuesto una organización lógica de la navegación y 
 
 Finalmente, hemos desarrollado el prototipo, realizando diferentes bocetos Lo-Fi de la página de reservas de nuestro proyecto.
 
-Para ello, hemos comenzado elaborando un boceto inicial a mano:
+Para ello, hemos comenzado elaborando un **boceto inicial a mano**:
 
 ![Boceto inicial a mano](P2/5.Prototipo/Boceto_inicial_a_mano.png)
 
-Posteriormente, hemos elaborado en Figma el wireframe preliminar
+Posteriormente, hemos elaborado en Figma el **wireframe preliminar en su versión para web** (con tamaño 1440x1024px, retícula de 12 columnas, márgenes laterales de 120px e interespaciado de 20px):
 
 ![Wireframe (Web)](P2/5.Prototipo/Wireframe_Web_Pagina_de_reservas.png)
 
+Y, también hemos elaborado sus **versiones responsive**, 
+
+tanto para **iPad y tablet** (con tamaño 768x1024px, retícula de 8 columnas, márgenes laterales de 40px e interespaciado de 20px):
+
 ![Wireframe responsive (Tablet e iPad)](P2/5.Prototipo/Wireframe_Tablet_e_iPad_Pagina_de_reservas.png)
+
+como para **móvil** (con tamaño 375x812px, retícula de 4 columnas, márgenes laterales de 16px e interespaciado de 16px):
 
 ![Wireframe responsive (Móvil)](P2/5.Prototipo/Wireframe_Movil_Pagina_de_reservas.png)
 
